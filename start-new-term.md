@@ -63,6 +63,6 @@ Course / Settings / Course Details tab.
 - Can attach files
 - Restrict comments on announcements
 
-[3 boxes checked](./images/canvas-course-settings-boxes.png)
+![3 boxes checked](./images/canvas-course-settings-boxes.png)
 
 
