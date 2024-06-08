@@ -65,4 +65,9 @@ Course / Settings / Course Details tab.
 
 ![3 boxes checked](./images/canvas-course-settings-boxes.png)
 
+Course / Settings / Navigation tab. 
+
+Generally in this order. Details change by course. 
+
+![typical_navigation](./images/canvas-course-settings-navigation.png)
 
