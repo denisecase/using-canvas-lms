@@ -71,3 +71,18 @@ Generally in this order. Details change by course.
 
 ![typical_navigation](./images/canvas-course-settings-navigation.png)
 
+-----
+
+## Module 0
+
+Module 0 is for all the syllabus and course required information. 
+Having them mark "Done" on each page is a way to help students see critical information about required textbooks, course policies, prerequesities and more. 
+Remaining modules are given just this Module 0 as a prereq - once all Module 0 pages have been reviewed and marked "Done", the full course is available.
+
+Name activities by skill whereever possible.
+
+Add "& Engage" in the name if interaction is required. 
+
+Make most pages a discussion with at least a couple points. 
+
+Students care most about assignments and it helps them encounter critical overview and lecture content pages. 
