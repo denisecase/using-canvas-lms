@@ -53,5 +53,16 @@ Click "Import from existing course" and provide the information to adjust the da
 
 -----
 
+## Settings
+
+Course / Settings / Course Details tab.
+
+- Restrict from viewing before start date (or provide date)
+- Set grading scale
+- Show 3 announcements
+- Can attach files
+- Restrict comments on announcements
+
+[3 boxes checked](./images/canvas-course-settings-boxes.png)
 
 
