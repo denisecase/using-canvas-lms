@@ -86,3 +86,16 @@ Add "& Engage" in the name if interaction is required.
 Make most pages a discussion with at least a couple points. 
 
 Students care most about assignments and it helps them encounter critical overview and lecture content pages. 
+
+## Navigation: Syllabus
+
+Download prior syllabus document. Save to new term name. Make any edits. 
+
+Canvas / Course / Files / Upload new syllabus. 
+
+Canvas / Course / Syllabus / delete old link & add new syllabus file.
+Add any textbook information here as well. 
+
+Delete old versions and clean up Files while there. 
+
+
