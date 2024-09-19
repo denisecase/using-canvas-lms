@@ -12,6 +12,6 @@ Thursday September 19, 2024 ZOOM
 
 Denise Case, PhD, PE - CSIS
 
-1. [PDF](./https://github.com/denisecase/using-canvas-lms/blob/main/UsingCanvasQuizzestoProvideInteractiveLearningAdventureGUIDES.pdf)
+1. [PDF](https://github.com/denisecase/using-canvas-lms/blob/main/UsingCanvasQuizzestoProvideInteractiveLearningAdventureGUIDES.pdf)
 3. [Gradebook: Turn on Notes](./gradebook-turn-on-notes.md)
 4. [Start a New Term (New Courses) Process](./start-new-term.md)
